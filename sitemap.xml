@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thinkgamer.cn/2019/08/31/%E8%AE%BA%E6%96%87/%E3%80%90%E8%AE%BA%E6%96%87%E3%80%91RecSys18-%E5%BA%8F%E5%88%97%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8BTransFM(Translation-based%20Factorization%20Machines%20for%20Sequential%20Recommendation)/</loc>
+    
+    <lastmod>2019-11-14T02:22:08.278Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2018/07/13/%E8%AE%BA%E6%96%87/%E3%80%90%E8%AE%BA%E6%96%87%E3%80%91%E5%9F%BA%E4%BA%8E%E4%B8%89%E9%83%A8%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E7%9A%84%E7%9F%A5%E8%AF%86%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/</loc>
+    
+    <lastmod>2019-11-14T02:22:03.591Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/11/07/%E8%AE%BA%E6%96%87/%E3%80%90%E8%AE%BA%E6%96%87%E3%80%91%E6%96%87%E6%9C%AC%E7%9B%B8%E4%BC%BC%E5%BA%A6%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0/</loc>
+    
+    <lastmod>2019-11-14T02:21:56.478Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/04/21/TensorFlow/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2019-11-14T02:21:38.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/11/05/TensorFlow/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%97%A0%E7%9B%91%E7%9D%A3%E7%89%B9%E5%BE%81%E5%AD%A6%E4%B9%A0%E3%80%81%E8%81%9A%E7%B1%BB%E5%92%8C%E5%AF%86%E5%BA%A6%E4%BC%B0%E8%AE%A1/</loc>
+    
+    <lastmod>2019-11-14T02:21:30.742Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/11/12/TensorFlow/%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F/</loc>
+    
+    <lastmod>2019-11-14T02:21:24.110Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/01/03/TensorFlow/TensorFlow%20%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B:%20feature_column/</loc>
+    
+    <lastmod>2019-11-14T02:15:42.336Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://thinkgamer.cn/2019/10/15/RecSys/%E5%86%B7%E5%90%AF%E5%8A%A8%E4%B8%AD%E7%9A%84%E5%A4%9A%E9%81%BF%E8%80%81%E8%99%8E%E6%9C%BA%E9%97%AE%E9%A2%98%EF%BC%88Multi-Armed%20Bandit%EF%BC%8CMAB%EF%BC%89/</loc>
     
     <lastmod>2019-10-18T08:56:37.262Z</lastmod>
@@ -19,13 +68,6 @@
     <loc>http://thinkgamer.cn/about/index.html</loc>
     
     <lastmod>2019-10-14T12:28:36.846Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thinkgamer.cn/2019/08/31/%E8%AE%BA%E6%96%87/%E3%80%90%E8%AE%BA%E6%96%87%E3%80%91RecSys18-%E5%BA%8F%E5%88%97%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8BTransFM(Translation-based%20Factorization%20Machines%20for%20Sequential%20Recommendation)/</loc>
-    
-    <lastmod>2019-10-14T12:28:36.845Z</lastmod>
     
   </url>
   
@@ -212,13 +254,6 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/07/13/%E8%AE%BA%E6%96%87/%E3%80%90%E8%AE%BA%E6%96%87%E3%80%91%E5%9F%BA%E4%BA%8E%E4%B8%89%E9%83%A8%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E7%9A%84%E7%9F%A5%E8%AF%86%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/</loc>
-    
-    <lastmod>2019-10-14T06:42:35.691Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thinkgamer.cn/2017/09/01/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E5%92%8C%E5%85%B6%E5%9C%A8sklearn%E4%B8%AD%E7%9A%84%E5%A4%84%E7%90%86/</loc>
     
     <lastmod>2019-10-14T06:42:35.690Z</lastmod>
@@ -247,14 +282,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/04/02/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E7%AF%87%E4%B9%8BLogistic%20Regression%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC/</loc>
+    <loc>http://thinkgamer.cn/2019/04/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E4%B9%8BPLA%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC/</loc>
     
     <lastmod>2019-10-14T06:42:35.688Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/04/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E4%B9%8BPLA%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC/</loc>
+    <loc>http://thinkgamer.cn/2019/04/02/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E7%AF%87%E4%B9%8BLogistic%20Regression%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%8E%A8%E5%AF%BC/</loc>
     
     <lastmod>2019-10-14T06:42:35.688Z</lastmod>
     
@@ -359,14 +394,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/03/28/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Softmax-Regression/</loc>
+    <loc>http://thinkgamer.cn/2017/07/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/MachingLearning%E4%B8%AD%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%92%8C%E7%9B%B8%E4%BC%BC%E6%80%A7%E8%AE%A1%E7%AE%97%E4%BB%A5%E5%8F%8Apython%E5%AE%9E%E7%8E%B0/</loc>
     
     <lastmod>2019-10-14T06:42:35.682Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2017/07/16/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/MachingLearning%E4%B8%AD%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%92%8C%E7%9B%B8%E4%BC%BC%E6%80%A7%E8%AE%A1%E7%AE%97%E4%BB%A5%E5%8F%8Apython%E5%AE%9E%E7%8E%B0/</loc>
+    <loc>http://thinkgamer.cn/2018/03/28/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/Softmax-Regression/</loc>
     
     <lastmod>2019-10-14T06:42:35.682Z</lastmod>
     
@@ -429,13 +464,6 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/04/21/TensorFlow/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E4%BB%8B%E7%BB%8D/</loc>
-    
-    <lastmod>2019-10-14T06:42:35.679Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thinkgamer.cn/2018/04/22/TensorFlow/TensorFlow%E7%9A%84MNIST%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2019-10-14T06:42:35.678Z</lastmod>
@@ -478,21 +506,7 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/01/03/TensorFlow/TensorFlow%20%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B:%20feature_column/</loc>
-    
-    <lastmod>2019-10-14T06:42:35.676Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thinkgamer.cn/2018/01/25/Spark/Spark%E5%A4%9A%E8%B7%AF%E5%BE%84%E8%BE%93%E5%87%BA%E5%92%8C%E4%BA%8C%E6%AC%A1%E6%8E%92%E5%BA%8F/</loc>
-    
-    <lastmod>2019-10-14T06:42:35.675Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thinkgamer.cn/2018/01/23/Spark/Spark%E6%8F%90%E4%BA%A4%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E%E5%92%8C%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96/</loc>
     
     <lastmod>2019-10-14T06:42:35.675Z</lastmod>
     
@@ -506,14 +520,21 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/02/04/Spark/Scala%E8%A7%A3%E6%9E%90XML/</loc>
+    <loc>http://thinkgamer.cn/2018/01/23/Spark/Spark%E6%8F%90%E4%BA%A4%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E%E5%92%8C%E5%B8%B8%E8%A7%81%E4%BC%98%E5%8C%96/</loc>
+    
+    <lastmod>2019-10-14T06:42:35.675Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2019/01/03/Spark/Hive%20Join%20%E5%88%86%E6%9E%90%E5%92%8C%E4%BC%98%E5%8C%96/</loc>
     
     <lastmod>2019-10-14T06:42:35.674Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/01/03/Spark/Hive%20Join%20%E5%88%86%E6%9E%90%E5%92%8C%E4%BC%98%E5%8C%96/</loc>
+    <loc>http://thinkgamer.cn/2018/02/04/Spark/Scala%E8%A7%A3%E6%9E%90XML/</loc>
     
     <lastmod>2019-10-14T06:42:35.674Z</lastmod>
     
@@ -527,14 +548,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/08/01/Share/%E3%80%90%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E3%80%91%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%9A%84%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</loc>
+    <loc>http://thinkgamer.cn/2019/01/28/Share/%E3%80%90%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E3%80%91%E4%BB%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%88%B0DL%E3%80%81RL%EF%BC%8C%E8%BF%98%E4%B8%8D%E5%BF%AB%E6%9D%A5/</loc>
     
     <lastmod>2019-10-14T06:42:35.673Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/01/28/Share/%E3%80%90%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E3%80%91%E4%BB%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%88%B0DL%E3%80%81RL%EF%BC%8C%E8%BF%98%E4%B8%8D%E5%BF%AB%E6%9D%A5/</loc>
+    <loc>http://thinkgamer.cn/2019/08/01/Share/%E3%80%90%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E3%80%91%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E7%9A%84%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</loc>
     
     <lastmod>2019-10-14T06:42:35.673Z</lastmod>
     
@@ -632,14 +653,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/07/20/RecSys/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B%E4%B9%8B%E4%B8%89%E5%A4%A7%E6%A1%88%E4%BE%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E5%88%B01%E8%87%AA%E5%B7%B1%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
+    <loc>http://thinkgamer.cn/2019/07/20/RecSys/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B%E4%B9%8B%E4%B8%9A%E5%86%85%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D/</loc>
     
     <lastmod>2019-10-14T06:42:35.667Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/07/20/RecSys/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B%E4%B9%8B%E4%B8%9A%E5%86%85%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://thinkgamer.cn/2019/07/20/RecSys/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/%E3%80%8A%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E3%80%8B%E4%B9%8B%E4%B8%89%E5%A4%A7%E6%A1%88%E4%BE%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E5%88%B01%E8%87%AA%E5%B7%B1%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
     
     <lastmod>2019-10-14T06:42:35.667Z</lastmod>
     
@@ -653,14 +674,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/08/02/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E7%9A%84Slope%20One%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D%E5%92%8C%E5%AE%9E%E7%8E%B0/</loc>
+    <loc>http://thinkgamer.cn/2018/04/12/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E5%86%B3%E7%AD%96%E6%A0%91-GBDT%EF%BC%88Gradient%20Boosting%20Decision%20Tree%EF%BC%89/</loc>
     
     <lastmod>2019-10-14T06:42:35.665Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/04/12/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E5%86%B3%E7%AD%96%E6%A0%91-GBDT%EF%BC%88Gradient%20Boosting%20Decision%20Tree%EF%BC%89/</loc>
+    <loc>http://thinkgamer.cn/2019/08/02/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E7%9A%84Slope%20One%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D%E5%92%8C%E5%AE%9E%E7%8E%B0/</loc>
     
     <lastmod>2019-10-14T06:42:35.665Z</lastmod>
     
@@ -674,14 +695,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/08/08/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E7%9A%84ALS%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
+    <loc>http://thinkgamer.cn/2019/01/29/RecSys/Spark%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/Spark%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B9%8B%EF%BC%88MLLib%E3%80%81ML%EF%BC%89GBTs%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F%E4%BB%8B%E7%BB%8D/</loc>
     
     <lastmod>2019-10-14T06:42:35.664Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/01/29/RecSys/Spark%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/Spark%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B9%8B%EF%BC%88MLLib%E3%80%81ML%EF%BC%89GBTs%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://thinkgamer.cn/2019/08/08/RecSys/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E7%9A%84ALS%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
     
     <lastmod>2019-10-14T06:42:35.664Z</lastmod>
     
@@ -702,14 +723,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/07/05/Python/MySQLdb%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://thinkgamer.cn/2015/01/05/Python/Python%E4%B8%ADtry-except-finally%E7%9A%84%E7%90%86%E8%A7%A3/</loc>
     
     <lastmod>2019-10-14T06:42:35.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/01/05/Python/Python%E4%B8%ADtry-except-finally%E7%9A%84%E7%90%86%E8%A7%A3/</loc>
+    <loc>http://thinkgamer.cn/2015/07/05/Python/MySQLdb%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2019-10-14T06:42:35.662Z</lastmod>
     
@@ -737,14 +758,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/06/28/Linux/VirtualBox%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%B9%E8%AE%BE%E7%BD%AE%E5%8F%8A%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BD/</loc>
+    <loc>http://thinkgamer.cn/2015/03/22/Linux/Ubuntu%E4%B8%8B%E7%BB%88%E7%AB%AF%E9%97%AA%E9%80%80/</loc>
     
     <lastmod>2019-10-14T06:42:35.659Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/03/22/Linux/Ubuntu%E4%B8%8B%E7%BB%88%E7%AB%AF%E9%97%AA%E9%80%80/</loc>
+    <loc>http://thinkgamer.cn/2015/06/28/Linux/VirtualBox%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%B9%E8%AE%BE%E7%BD%AE%E5%8F%8A%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BD/</loc>
     
     <lastmod>2019-10-14T06:42:35.659Z</lastmod>
     
