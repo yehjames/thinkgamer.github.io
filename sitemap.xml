@@ -786,14 +786,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/04/22/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/TensorFlow/TensorFlow%E7%9A%84MNIST%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://thinkgamer.cn/2018/04/22/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/TensorFlow/TensorFlow%E5%AE%9E%E7%8E%B0%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/</loc>
     
     <lastmod>2019-12-06T03:14:43.927Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2018/04/22/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/TensorFlow/TensorFlow%E5%AE%9E%E7%8E%B0%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/</loc>
+    <loc>http://thinkgamer.cn/2018/04/22/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/TensorFlow/TensorFlow%E7%9A%84MNIST%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2019-12-06T03:14:43.927Z</lastmod>
     
@@ -842,13 +842,6 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/06/19/Java/%E6%96%B0%E6%B5%AA%E6%98%8E%E6%98%9F%E6%97%A5%E5%BF%97%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90%EF%BC%88java%E5%AE%9E%E7%8E%B0%EF%BC%89/</loc>
-    
-    <lastmod>2019-12-06T03:14:43.910Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thinkgamer.cn/2015/03/17/Java/Java%E6%96%87%E4%BB%B6%E7%9A%84%E5%86%99%E5%85%A5%E4%B8%8E%E8%AF%BB%E5%87%BA/</loc>
     
     <lastmod>2019-12-06T03:14:43.910Z</lastmod>
@@ -856,14 +849,21 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/07/07/Hadoop/%E4%BA%8C%E3%80%81hadoop%E4%BC%AA%E5%88%86%E5%B8%83%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://thinkgamer.cn/2015/06/19/Java/%E6%96%B0%E6%B5%AA%E6%98%8E%E6%98%9F%E6%97%A5%E5%BF%97%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90%EF%BC%88java%E5%AE%9E%E7%8E%B0%EF%BC%89/</loc>
+    
+    <lastmod>2019-12-06T03:14:43.910Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thinkgamer.cn/2015/07/28/Hadoop/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%EF%BC%9AMapReduce%E5%AE%9E%E6%88%98-%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</loc>
     
     <lastmod>2019-12-06T03:14:43.909Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2015/07/28/Hadoop/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%EF%BC%9AMapReduce%E5%AE%9E%E6%88%98-%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</loc>
+    <loc>http://thinkgamer.cn/2015/07/07/Hadoop/%E4%BA%8C%E3%80%81hadoop%E4%BC%AA%E5%88%86%E5%B8%83%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2019-12-06T03:14:43.909Z</lastmod>
     
@@ -898,14 +898,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/06/21/%E9%9A%8F%E6%89%8B%E8%AE%B0/%E9%99%86%E6%9C%88%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E5%92%8C%E6%88%91%E8%A6%81%E6%94%B9%E5%90%8D%E4%BA%86%EF%BC%81/</loc>
+    <loc>http://thinkgamer.cn/2019/08/04/%E9%9A%8F%E6%89%8B%E8%AE%B0/%E9%87%8D%E5%BA%86%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E5%8F%B8%E6%9C%BA%E6%8F%AD%E9%9C%B2%E4%BA%86%E4%B8%91%E6%81%B6%E4%B8%96%E9%81%93%EF%BC%8C%E4%BD%86%E7%BB%88%E8%A6%81%E7%9B%B8%E4%BF%A1%E6%9C%89%E5%96%84%E6%9C%89%E6%AD%A3%E4%B9%89%E6%9C%89%E5%BC%A0%E5%B0%8F%E6%95%AC%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%AE%89%E4%B8%8D%E8%89%AF%E5%B8%85/</loc>
     
     <lastmod>2019-10-14T06:42:35.694Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2019/08/04/%E9%9A%8F%E6%89%8B%E8%AE%B0/%E9%87%8D%E5%BA%86%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E5%8F%B8%E6%9C%BA%E6%8F%AD%E9%9C%B2%E4%BA%86%E4%B8%91%E6%81%B6%E4%B8%96%E9%81%93%EF%BC%8C%E4%BD%86%E7%BB%88%E8%A6%81%E7%9B%B8%E4%BF%A1%E6%9C%89%E5%96%84%E6%9C%89%E6%AD%A3%E4%B9%89%E6%9C%89%E5%BC%A0%E5%B0%8F%E6%95%AC%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%AE%89%E4%B8%8D%E8%89%AF%E5%B8%85/</loc>
+    <loc>http://thinkgamer.cn/2019/06/21/%E9%9A%8F%E6%89%8B%E8%AE%B0/%E9%99%86%E6%9C%88%EF%BC%8C%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E5%92%8C%E6%88%91%E8%A6%81%E6%94%B9%E5%90%8D%E4%BA%86%EF%BC%81/</loc>
     
     <lastmod>2019-10-14T06:42:35.694Z</lastmod>
     
@@ -926,14 +926,14 @@
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2016/09/15/%E5%A4%8F%E6%9C%AA%E7%9C%A0/%E8%BF%99%E5%A4%8F%E6%9C%AA%E7%9C%A0-%E5%BA%8F/</loc>
+    <loc>http://thinkgamer.cn/2016/09/17/%E5%A4%8F%E6%9C%AA%E7%9C%A0/%E8%BF%99%E5%A4%8F%E6%9C%AA%E7%9C%A0-%E5%89%8D%E8%A8%80/</loc>
     
     <lastmod>2019-10-14T06:42:35.680Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thinkgamer.cn/2016/09/17/%E5%A4%8F%E6%9C%AA%E7%9C%A0/%E8%BF%99%E5%A4%8F%E6%9C%AA%E7%9C%A0-%E5%89%8D%E8%A8%80/</loc>
+    <loc>http://thinkgamer.cn/2016/09/15/%E5%A4%8F%E6%9C%AA%E7%9C%A0/%E8%BF%99%E5%A4%8F%E6%9C%AA%E7%9C%A0-%E5%BA%8F/</loc>
     
     <lastmod>2019-10-14T06:42:35.680Z</lastmod>
     
